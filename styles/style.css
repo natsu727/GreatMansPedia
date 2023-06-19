@@ -1,13 +1,11 @@
-a {
-  font-size: 14px;
-  text-decoration: none;
+.main {
+  text-align: center;
 }
-
 #menu-bar {
   position: fixed;
   z-index: 20;
   width: 100%;
-  height: 45px;
+  height: 100vh;
 
   display: flex;
   justify-content: flex-end;
@@ -28,7 +26,7 @@ a {
 #nav-menu {
   position: fixed;
   z-index: 20;
-  top: 47px;
+  top: 0px;
   right: -100%;
   width: 80%;
   height: 100vh;
