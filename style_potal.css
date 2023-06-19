@@ -2,9 +2,8 @@ a {
   font-size: 14px;
   text-decoration: none;
 }
-
-#title {
-  position: center;
+.main {
+  text-align: center;
 }
 
 #menu-bar {
